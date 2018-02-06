@@ -18,10 +18,7 @@
     return $inputText;
   }
 
-  if(isset($_POST['loginButton'])) {
-    //Login button was pressed
 
-  }
 
   if(isset($_POST['registerButton'])) {
     //Register button was pressed
