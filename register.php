@@ -1,12 +1,13 @@
 <?php
   include("includes/handlers/register-handler.php");
+  include("includes/handlers/login-handler.php");
 ?>
 
 
 
 <html>
 <head>
-  <title>Welcome to Slotify!</title>
+  <title>Welcome to Spotify Clone!</title>
 </head>
 <body>
 
